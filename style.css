@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(67, 100, 210);
+}
+.container {
+    text-align: center;
+    margin-top: 100px;
+}
+
+#display {
+    font-weight: 600;
+    font-size: 250px;
+    margin-bottom: 20px;
+}
+
+button {
+    padding: 10px;
+    margin-right: 10px;
+    font-size: 30px;
+}
